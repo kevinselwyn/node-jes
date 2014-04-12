@@ -1,0 +1,22 @@
+{
+	"name": "node-jes",
+	"version": "0.1.0",
+	"author": "Kevin Selwyn <kevinselwyn@gmail.com>",
+	"description": "Javascript implementation of the Advanced Encryption Standard (AES-128-CBC)",
+	"keywords": [
+		"aes",
+		"encryption"
+	],
+	"licenses": [
+		{
+			"type": "GPLv3",
+			"url": "http://www.gnu.org/licenses/gpl-3.0.html"
+		}
+	],
+	"bugs": "https://github.com/kevinselwyn/node-jes/issues",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/kevinselwyn/node-jes.git"
+	},
+	"main": "index.js"
+}
